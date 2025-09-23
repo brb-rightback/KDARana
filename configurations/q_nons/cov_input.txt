@@ -1,8 +1,8 @@
-kdar_bdtselns                ssm_kine_energy   13      0       130    1       0               0       0               0               0               15      unity           0
-kdar_bdtselns_sig            ssm_kine_energy   13      0       130    1       1               1       0               0               1               7    cv_spline    1
-kdar_bdtselns_bck            ssm_kine_energy   13      0       130    1       1               0       0               0               2               2       cv_spline       0
-kdar_bdtselnsrand_dirt       ssm_kine_energy   13      0       130    1       0               0       0.5             0               2               4       cv_spline       0
-kdar_bdtselns_ext            ssm_kine_energy   13      0       130    1       0               0       0               0               7               3       unity           0
+kdar_bdtsel        ssm_q   11      0       440            1       0               0       0               0               0               15      unity           0
+kdar_bdtsel_sig    ssm_q   11      0       440            1       1               1       0               0               1               7       cv_spline       0
+kdar_bdtsel_bck    ssm_q   11      0       440            1       1               0       0               0               2               2       cv_spline       0
+kdar_bdtsel_dirt   ssm_q   11      0       440            1       0               0       0.5             0               2               4       cv_spline       0
+kdar_bdtsel_ext    ssm_q   11      0       440            1       0               0       0               0               7               3       unity           0
 
 kdar_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15      unity           0
 kdar_sideband1_bck            muon_KE   5      0       250    2       1               0       0               0               3               2       cv_spline       0
