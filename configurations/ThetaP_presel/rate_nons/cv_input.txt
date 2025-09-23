@@ -1,0 +1,11 @@
+2       nu_overlay               42               /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_numi_nu_overlay_run4b.root                      ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4b.root                    0               1       0       42
+15      NUMI                     42               /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_data_numi_run4b.root                                      ./hist_rootfiles/run4b_data_numi.root                                             4.966e+19       2       0       42
+7       kdar_overlay             42               /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4b.root                       3e22            4       0       42
+3       EXTNUMI                  42               /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_data_extnumi_run4b.root                                   ./hist_rootfiles/checkout_data_extnumi_run4b.root                                 7.852e+20      3       0       42
+4       dirt                     42               /pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_numi_dirt_run4.root                                ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4.root                            0               5       0       42
+-1      end                     -1              end                                                                                                                             end                                                                             -1              -1      -1      -1
+#file   #type                   #period         #filename                                                                                                                       #outfile_name
+
+
+
+

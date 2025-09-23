@@ -1,0 +1,36 @@
+/pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_numi_nu_overlay_run4b.root  all
+/pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_data_numi_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_data_extnumi_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_numi_dirt_run4.root all
+end end
+
+
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_MCC9.10_Run4b_NuMI_beam_off_RHC_data_surprise_v10_04_07_09_reco2_hist.root all
+
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_kdar_overlay_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgibuu_kdar_overlay_run4b_train.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodnuwro_kdar_overlay_run4b_train.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_numi_nu_overlay_run4b.root  all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_data_numi_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_data_extnumi_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root all
+/pnfs/uboone/scratch/users/bbogart/kdar_test/checkout_prodgenie_numi_dirt_run4.root all
+end end
+
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_prodgibuu_kdar_overlay_run4b_train.root all
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_prodnuwro_kdar_overlay_run4b_train.root all
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_prodgenie_numi_nu_overlay_run4b.root  all
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_data_numi_run4b.root all
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_data_extnumi_run4b.root all
+/exp/uboone/data/users/bbogart/test_sys/altbdt/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root all
+end end
+
+
+/exp/uboone/data/users/bbogart/test_sys/checkout_prodgibuu_kdar_overlay_run4b_train.root all
+/exp/uboone/data/users/bbogart/test_sys/checkout_prodnuwro_kdar_overlay_run4b_train.root all
+/exp/uboone/data/users/bbogart/test_sys/checkout_prodgenie_numi_nu_overlay_run4b.root  all
+/exp/uboone/data/users/bbogart/test_sys/checkout_data_numi_run4b.root all
+/exp/uboone/data/users/bbogart/test_sys/checkout_data_extnumi_run4b.root all
+/exp/uboone/data/users/bbogart/test_sys/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root all
+end end

@@ -1,0 +1,27 @@
+1 779 kdar.pt.le.8.gt.0 1 0 0
+2 779 kdar.pt.le.16.gt.8 1 0 0
+3 779 kdar.pt.le.24.gt.16 1 0 0
+4 779 kdar.pt.le.32.gt.24 1 0 0
+5 779 kdar.pt.le.40.gt.32 1 0 0
+6 779 kdar.pt.le.48.gt.40 1 0 0
+7 779 kdar.pt.le.56.gt.48 1 0 0
+8 779 kdar.pt.le.64.gt.56 1 0 0
+9 779 kdar.pt.le.72.gt.64 1 0 0
+10 779 kdar.pt.le.80.gt.72 1 0 0
+11 779 kdar.pt.le.88.gt.80 1 0 0
+12 779 kdar.pt.le.96.gt.88 1 0 0
+13 779 kdar.pt.le.104.gt.96 1 0 0
+14 779 kdar.pt.le.112.gt.104 1 0 0
+15 779 kdar.pt.le.120.gt.112 1 0 0
+16 779 kdar.pt.le.128.gt.120 1 0 0
+17 779 kdar.pt.le.136.gt.128 1 0 0
+18 779 kdar.pt.le.144.gt.136 1 0 0
+19 779 kdar.pt.le.152.gt.144 1 0 0
+20 779 kdar.pt.le.160.gt.152 1 0 0
+21 779 kdar.pt.le.168.gt.160 1 0 0
+22 779 kdar.pt.le.176.gt.168 1 0 0
+23 779 kdar.pt.le.184.gt.176 1 0 0
+24 779 kdar.pt.le.192.gt.184 1 0 0
+25 779 kdar.pt.le.200.gt.192 1 0 0
+-1              -1                      End
+

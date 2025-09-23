@@ -1,0 +1,7 @@
+hist_rootfiles_*
+hist_rootfiles/*
+mcstat/*
+bin
+lib
+lib64
+*.root
