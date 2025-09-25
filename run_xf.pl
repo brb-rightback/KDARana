@@ -4,6 +4,7 @@ my $config = "NONE";
 open my $file, '<', "config.txt" or die "Cannot open config.txt: $!";
 my $config = <$file>;
 close $file;
+chomp($config);
 print "Running xf sys for $config\n";
 
 system("./bin/xf_cov_matrix -r3 -h1&");

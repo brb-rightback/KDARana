@@ -3,6 +3,7 @@
 my $config = "NONE";
 open my $file, '<', "config.txt" or die "Cannot open config.txt: $!";
 my $config = <$file>;
+chomp($config);
 close $file;
 print "Running MC stat for $config\n";
 
