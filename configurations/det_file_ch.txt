@@ -7,6 +7,17 @@
 /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyr_run5.root all
 /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyd_run5.root all
 /pnfs/uboone/scratch/users/bbogart/kdar_test_09/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyatt_run5.root all
+
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_LYDown_run3.root      all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_LYRayleigh_run3.root  all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_Recomb2_run3.root     all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_SCE_run3.root         all
+
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_WireModThetaXZ_run3.root    all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_WireModThetaYZ_run3.root    all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_WireModX_run3.root          all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_WireModYZ_run3.root       all
+/pnfs/uboone/scratch/users/bbogart/WCPcheckout_prodgenie_numi_nu_overlay_WCP_DetVar_LYAttenuation_run3.root    all
 end end
 
 
