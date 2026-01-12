@@ -1,7 +1,7 @@
 kdar_bdtselns        ssm_pl   9      -200       160            1       0               0       0               0               0               15      unity           0
 kdar_bdtselns_sig    ssm_pl   9      -200       160            1       1               1       0               0               1               7       cv_spline       0
 kdar_bdtselns_bck    ssm_pl   9      -200       160            1       1               0       0               0               2               2       cv_spline       0
-kdar_bdtselnsrand_dirt   ssm_pl   9      -200       160            1       0               0       0.5             0               2               4       cv_spline       0
+kdar_bdtselns_dirt   ssm_pl   9      -200       160            1       0               0       0.5             0               2               4       cv_spline       0
 kdar_bdtselns_ext    ssm_pl   9      -200       160            1       0               0       0               0               7               3       unity           0
 
 kdar_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15      unity           0
