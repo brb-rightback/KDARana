@@ -1,4 +1,4 @@
-/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/wc_only/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root           all 
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/wc_only/NuMI/checkout_MCC9.10_Run4b_NuMI_RHC_nu_overlay_surprise_v10_04_07_09_reco2_hist.root     all
 /pnfs/uboone/persistent/users/uboonepro/surprise/opendata/NuMI/checkout_MCC9.10_Run4b_NuMI_beam_on_RHC_data_surprise_v10_04_07_09_reco2_hist_opendata_20400_20600.root             all
 /pnfs/uboone/persistent/users/bbogart/genie_kdar/samples/checkout/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root                                                 all
 /pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/wc_only/NuMI/checkout_MCC9.10_Run4b_NuMI_beam_off_RHC_data_surprise_v10_04_07_09_reco2_hist.root  all
