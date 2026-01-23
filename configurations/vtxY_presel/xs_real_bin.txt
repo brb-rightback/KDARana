@@ -1,0 +1,27 @@
+1 777 kdar.Emu.le.5.gt.0 1 0 0
+2 777 kdar.Emu.le.10.gt.5 1 0 0
+3 777 kdar.Emu.le.15.gt.10 1 0 0
+4 777 kdar.Emu.le.20.gt.15 1 0 0
+5 777 kdar.Emu.le.25.gt.20 1 0 0
+6 777 kdar.Emu.le.30.gt.25 1 0 0
+7 777 kdar.Emu.le.35.gt.30 1 0 0
+8 777 kdar.Emu.le.40.gt.35 1 0 0
+9 777 kdar.Emu.le.45.gt.40 1 0 0
+10 777 kdar.Emu.le.50.gt.45 1 0 0
+11 777 kdar.Emu.le.55.gt.50 1 0 0
+12 777 kdar.Emu.le.60.gt.55 1 0 0
+13 777 kdar.Emu.le.65.gt.60 1 0 0
+14 777 kdar.Emu.le.70.gt.65 1 0 0
+15 777 kdar.Emu.le.75.gt.70 1 0 0
+16 777 kdar.Emu.le.80.gt.75 1 0 0
+17 777 kdar.Emu.le.85.gt.80 1 0 0
+18 777 kdar.Emu.le.90.gt.85 1 0 0
+19 777 kdar.Emu.le.95.gt.90 1 0 0
+20 777 kdar.Emu.le.100.gt.95 1 0 0
+21 777 kdar.Emu.le.105.gt.100 1 0 0
+22 777 kdar.Emu.le.110.gt.105 1 0 0
+23 777 kdar.Emu.le.115.gt.110 1 0 0
+24 777 kdar.Emu.le.120.gt.115 1 0 0
+25 777 kdar.Emu.le.125.gt.120 1 0 0
+26 777 kdar.Emu.le.130.gt.125 1 0 0
+-1              -1                      End
