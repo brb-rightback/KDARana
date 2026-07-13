@@ -14,8 +14,8 @@ if($config eq "rate" || $config eq "rate_nons"){
   system("./bin/det_cov_matrix -r1 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r2 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r3 -h1 -s$seed&");
-  system("./bin/det_cov_matrix -r4 -h1 -s$seed");
-  system("./bin/det_cov_matrix -r6 -h1 -s$seed&");
+  system("./bin/det_cov_matrix -r4 -h1 -s$seed&");
+  system("./bin/det_cov_matrix -r6 -h1 -s$seed");
   system("./bin/det_cov_matrix -r7 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r8 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r9 -h1 -s$seed&");

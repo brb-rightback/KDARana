@@ -30,11 +30,11 @@ while(<infile>){
     
     if ($temp[0] !=-1 && $temp[0] != "\#file"){
 	print "$temp[3]\n";
-	if ($num %3 == 2 || $num == $tot-2){
+	if ($num %5 == 4 || $num == $tot-2){
 	    if ($num1 == 0){
 		system("./bin/convert_checkout_hist $temp[3] $temp[4] ");
 	    }elsif ($num1==1){
-		system("./bin/convert_checkout_hist_xs $temp[3] $temp[4] ");
+		system("./bin/convert_checkout_hist_xs $temp[3] $temp[4] &");
 	    }elsif ($num1==2){
 		system("./bin/convert_checkout_hist $temp[3] $temp[4] -o1");
 	    }
