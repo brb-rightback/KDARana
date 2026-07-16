@@ -1,0 +1,21 @@
+Read 235641 lines from checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_3.txt
+           EXT         Gate1        EA9CNT        tor101        tortgt   EA9CNT_wcut   tor101_wcut   tortgt_wcut
+   109996974.0     9732012.0     9721661.0     4.621e+20     4.602e+20     9509869.0     4.619e+20       4.6e+20
+
+	EXT_unbiased_PrescaleAlgo                          2199939.480000
+	NUMI_unbiased_PrescaleAlgo                         155712.192000
+	EXT_HSN_c0_FEMBeamTriggerAlgo                      21999394.800000
+	EXT_BNBwin_2017Dec_SWTrigger5PE_FEMBeamTriggerAlgo 106140815.000000
+	NUMI_2017Dec_SWTrigger8_5PE_FEMBeamTriggerAlgo     2448.000000
+	EXT_HSN_c1_FEMBeamTriggerAlgo                      7712.200000
+	EXT_NUMIwin_FEMBeamTriggerAlgo                     19249470.450000
+	NUMI_2018May_FEMBeamTriggerAlgo                    1817977.000000
+	EXT_NUMIwin_2018May_FEMBeamTriggerAlgo             4490844.750000
+	NUMI_FEMBeamTriggerAlgo                            9732012.000000
+	NUMI_2017Dec_SWTrigger9PE_FEMBeamTriggerAlgo       1188.000000
+	EXT_BNBwin_FEMBeamTriggerAlgo                      109996974.000000
+	EXT_NUMIwin_2017Dec_SWTrigger8_5PE_FEMBeamTriggerAlgo 2685.375000
+	EXT_NUMIwin_2017Dec_SWTrigger9PE_FEMBeamTriggerAlgo 1721.825000
+	NUMI_2017Dec_SWTrigger8PE_FEMBeamTriggerAlgo       2114.000000
+	EXT_NUMIwin_2017Dec_SWTrigger8PE_FEMBeamTriggerAlgo 2340.975000
+

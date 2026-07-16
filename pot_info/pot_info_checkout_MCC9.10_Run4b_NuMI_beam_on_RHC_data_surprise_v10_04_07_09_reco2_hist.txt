@@ -1,0 +1,14 @@
+Read 174690 lines from checkout_MCC9.10_Run4b_NuMI_beam_on_RHC_data_surprise_v10_04_07_09_reco2_hist.txt
+           EXT         Gate1        EA9CNT        tor101        tortgt   EA9CNT_wcut   tor101_wcut   tortgt_wcut
+    79011429.0     5421677.0     5425918.0     2.529e+20     2.509e+20     5392561.0     2.528e+20     2.513e+20
+
+	EXT_unbiased_PrescaleAlgo                          1580228.580000
+	NUMI_unbiased_PrescaleAlgo                         86746.832000
+	EXT_HSN_c0_FEMBeamTriggerAlgo                      15802285.800000
+	EXT_BNBwin_2017Dec_SWTrigger5PE_FEMBeamTriggerAlgo 79011429.000000
+	EXT_NUMIwin_FEMBeamTriggerAlgo                     13827000.075000
+	NUMI_2018May_FEMBeamTriggerAlgo                    5421677.000000
+	EXT_NUMIwin_2018May_FEMBeamTriggerAlgo             13827000.075000
+	NUMI_FEMBeamTriggerAlgo                            5421677.000000
+	EXT_BNBwin_FEMBeamTriggerAlgo                      79011429.000000
+

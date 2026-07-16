@@ -1,0 +1,16 @@
+Read 282252 lines from checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4d.txt
+           EXT         Gate1        EA9CNT        tor101        tortgt   EA9CNT_wcut   tor101_wcut   tortgt_wcut
+   175490348.0     1624729.0     1656096.0     7.849e+19     7.782e+19     1578677.0     7.842e+19     7.776e+19
+Warning!! Prescale data for some of the requested runs/subruns is not in the database.
+2 runs missing prescale data: 24238, 24252
+
+	EXT_unbiased_PrescaleAlgo                          3509225.580000
+	NUMI_unbiased_PrescaleAlgo                         25995.664000
+	EXT_HSN_c0_FEMBeamTriggerAlgo                      35092255.800000
+	EXT_BNBwin_2017Dec_SWTrigger5PE_FEMBeamTriggerAlgo 175461279.000000
+	EXT_NUMIwin_FEMBeamTriggerAlgo                     30705723.825000
+	NUMI_2018May_FEMBeamTriggerAlgo                    1624729.000000
+	EXT_NUMIwin_2018May_FEMBeamTriggerAlgo             30705723.825000
+	NUMI_FEMBeamTriggerAlgo                            1624729.000000
+	EXT_BNBwin_FEMBeamTriggerAlgo                      175461279.000000
+

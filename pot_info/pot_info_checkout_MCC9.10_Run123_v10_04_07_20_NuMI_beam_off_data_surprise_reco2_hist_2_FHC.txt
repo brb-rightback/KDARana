@@ -1,0 +1,13 @@
+Read 167825 lines from checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_2_FHC.txt
+           EXT         Gate1        EA9CNT        tor101        tortgt   EA9CNT_wcut   tor101_wcut   tortgt_wcut
+    89595747.0     4150036.0     4242868.0      1.38e+20     1.376e+20     3839836.0     1.378e+20     1.375e+20
+Warning!! NuMI data for some of the requsted runs/subruns is not in the database.
+1 runs missing NuMI data (number of subruns missing the data): 8883 (1),
+
+	EXT_unbiased_PrescaleAlgo                          1791914.940000
+	NUMI_unbiased_PrescaleAlgo                         743602.152000
+	EXT_HSN_c0_FEMBeamTriggerAlgo                      2314528.600000
+	EXT_NUMIwin_FEMBeamTriggerAlgo                     15679255.725000
+	NUMI_FEMBeamTriggerAlgo                            4150035.000000
+	EXT_BNBwin_FEMBeamTriggerAlgo                      89595747.000000
+

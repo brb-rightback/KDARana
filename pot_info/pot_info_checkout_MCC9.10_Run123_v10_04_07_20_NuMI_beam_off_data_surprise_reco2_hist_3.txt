@@ -1,0 +1,25 @@
+Read 344417 lines from checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_3.txt
+           EXT         Gate1        EA9CNT        tor101        tortgt   EA9CNT_wcut   tor101_wcut   tortgt_wcut
+   177911917.0    10076539.0    10076467.0     4.625e+20     4.605e+20     9516851.0     4.622e+20     4.603e+20
+
+	EXT_unbiased_PrescaleAlgo                          3654579.200000
+	NUMI_unbiased_PrescaleAlgo                         161224.624000
+	EXT_HSN_c0_FEMBeamTriggerAlgo                      35582383.400000
+	EXT_BNBwin_2017Dec_SWTrigger5PE_FEMBeamTriggerAlgo 173311117.000000
+	NUMI_2017Dec_SWTrigger8_5PE_FEMBeamTriggerAlgo     2404.000000
+	EXT_HSN_c1_FEMBeamTriggerAlgo                      9357.000000
+	EXT_BNBwin_2017Dec_v2_FEMBeamTriggerAlgo           16702.000000
+	EXT_NUMIwin_FEMBeamTriggerAlgo                     31134585.475000
+	NUMI_2018May_FEMBeamTriggerAlgo                    1897779.000000
+	EXT_NUMIwin_2018May_FEMBeamTriggerAlgo             14075677.700000
+	NUMI_FEMBeamTriggerAlgo                            10076539.000000
+	EXT_BNBwin_2017Dec_v1_FEMBeamTriggerAlgo           16611.000000
+	EXT_BNBwin_2017Dec_v3_FEMBeamTriggerAlgo           16703.000000
+	NUMI_2017Dec_SWTrigger9PE_FEMBeamTriggerAlgo       1294.000000
+	EXT_BNBwin_FEMBeamTriggerAlgo                      177911917.000000
+	EXT_NUMIwin_2017Dec_SWTrigger8_5PE_FEMBeamTriggerAlgo 2637.775000
+	EXT_NUMIwin_2017Dec_SWTrigger9PE_FEMBeamTriggerAlgo 2855.650000
+	NUMI_2017Dec_SWTrigger8PE_FEMBeamTriggerAlgo       2434.000000
+	EXT_BNBwin_2017Dec_v4_FEMBeamTriggerAlgo           13379.000000
+	EXT_NUMIwin_2017Dec_SWTrigger8PE_FEMBeamTriggerAlgo 2693.950000
+
