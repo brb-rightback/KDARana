@@ -1,12 +1,12 @@
-kdar_RHC_bdtsel            ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0               0               0               5       unity           0
-kdar_FHC_bdtsel            ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0               0               0               15      unity           0
-kdar_bdtsel_sig            ssm_kdar_bdt_stub_energy   15      0       60    1       1               1       0               0               1               7       cv_spline       0
-kdar_RHC_bdtsel_bck        ssm_kdar_bdt_stub_energy   15      0       60    1       1               1       0               0               2               2       cv_spline       0
-kdar_FHC_bdtsel_bck        ssm_kdar_bdt_stub_energy   15      0       60    1       1               1       0               0               2               12      cv_spline       0
-kdar_RHC_bdtsel_dirt       ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0.5             0               2               4       cv_spline       0
-kdar_FHC_bdtsel_dirt       ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0.5             0               2               14      cv_spline       0
-kdar_RHC_bdtsel_ext        ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0               0               11              3       unity           0
-kdar_FHC_bdtsel_ext        ssm_kdar_bdt_stub_energy   15      0       60    1       0               0       0               0               11              13      unity           0
+kdar_RHC_bdtselStub            ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0               0               0               5       unity           0
+kdar_FHC_bdtselStub            ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0               0               0               15      unity           0
+kdar_bdtselStub_sig            ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       1               1       0               0               1               7       cv_spline       0
+kdar_RHC_bdtselStub_bck        ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       1               1       0               0               2               2       cv_spline       0
+kdar_FHC_bdtselStub_bck        ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       1               1       0               0               2               12      cv_spline       0
+kdar_RHC_bdtselStub_dirt       ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0.5             0               2               4       cv_spline       0
+kdar_FHC_bdtselStub_dirt       ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0.5             0               2               14      cv_spline       0
+kdar_RHC_bdtselStub_ext        ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0               0               11              3       unity           0
+kdar_FHC_bdtselStub_ext        ssm_kdar_bdt_stub_energy   15      0.01       60.01    1       0               0       0               0               11              13      unity           0
 
 kdar_FHC_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15       unity           0
 kdar_FHC_sideband1_bck            muon_KE   5      0       250    2       1               1       0               0               3               12       cv_spline       0

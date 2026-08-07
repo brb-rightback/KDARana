@@ -1,0 +1,118 @@
+7   kdar_overlay    21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run1_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run2_rhc.root      3e22      1    0   21
+7   kdar_overlay    22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run2_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run2_fhc.root      3e22      2    0   22
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run3_morestats_reco2.root         ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run3.root          3e22      3    0   3
+7   kdar_overlay    41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4a_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4a.root         3e22      4    0   41
+7   kdar_overlay    42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root                        ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4b.root         3e22      5    0   42
+7   kdar_overlay    43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run3_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4c_rhc.root     3e22      6    0   43
+3   kdar_overlay    44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4c_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4c_fhc.root     3e22      7    0   44
+7   kdar_overlay    45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4d_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4d.root         3e22      8    0   45
+7   kdar_overlay    5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run5.root                         ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run5.root          3e22      9    0   5
+
+
+2    nu_overlay  21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_23_NuMI_RHC_nu_overlay_surprise_reco2_hist_2.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run2_rhc.root   0         10   0   21
+15   NUMI        21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_2_RHC.root   ./hist_rootfiles/run2_rhc_data_numi.root                            2.38e+20  11   0   21
+3    EXTNUMI     21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_2_RHC.root  ./hist_rootfiles/checkout_data_extnumi_run2_rhc.root                8.87e+20  12   0   21
+4    dirt        21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_RHC_dirt_overlay_surprise_reco2_hist_2.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run2_rhc.root         0         13   0   21
+
+2   nu_overlay  22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_FHC_nu_overlay_surprise_reco2_hist_2.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run2_fhc.root   0         14   0   22
+15  NUMI        22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_2_FHC_goodns.root   ./hist_rootfiles/run2_fhc_data_numi.root                            1.10e+20  15   0   22
+3   EXTNUMI     22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_2_FHC.root  ./hist_rootfiles/checkout_data_extnumi_run2_fhc.root                5.80e+20  16   0   22
+4   dirt        22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_FHC_dirt_overlay_surprise_reco2_hist_2.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run2_fhc.root         0         17   0   22
+
+2    nu_overlay  3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_23_NuMI_RHC_nu_overlay_surprise_reco2_hist_3.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run3.root       0         18   0   3
+15   NUMI        3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_3.root       ./hist_rootfiles/run3_data_numi.root                                4.60e+20  19   0   3
+3    EXTNUMI     3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_3.root      ./hist_rootfiles/checkout_data_extnumi_run3.root                    1.51e+21  20   0   3
+4    dirt        3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_RHC_dirt_overlay_surprise_reco2_hist_3.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run3.root             0         21   0   3
+
+2    nu_overlay  41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_nu_overlay_surprise_reco2_hist_4a.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4a.root      0         22   0   41
+15   NUMI        41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4a.root         ./hist_rootfiles/run4a_data_numi.root                               8.06e+18   23   0   41
+3    EXTNUMI     41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4a.root        ./hist_rootfiles/checkout_data_extnumi_run4a.root                   1.22e+20  24   0   41
+4    dirt        41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4a.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4a.root            0         25   0   41
+
+2    nu_overlay  42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_RHC_nu_overlay_surprise_v10_04_07_09_reco2_hist.root        ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4b.root      0         26   0   42
+15   NUMI        42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_beam_on_RHC_data_surprise_v10_04_07_09_reco2_hist.root      ./hist_rootfiles/run4b_data_numi.root                               2.51e+20  27   0   42
+3    EXTNUMI     42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_beam_off_RHC_data_surprise_v10_04_07_09_reco2_hist.root     ./hist_rootfiles/checkout_data_extnumi_run4b.root                   7.35e+20  28   0   42
+4    dirt        42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4b.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4b.root            0         29   0   42
+
+2    nu_overlay  43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_nu_overlay_surprise_reco2_hist_4c.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4c_rhc.root  0         30   0   43
+15   NUMI        43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4c_RHC.root     ./hist_rootfiles/run4c_rhc_data_numi.root                           1.67e+19  31   0   43
+3    EXTNUMI     43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4c_RHC.root    ./hist_rootfiles/checkout_data_extnumi_run4c_rhc.root               5.17e+19  32   0   43
+4    dirt        43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4c.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4c_rhc.root        0         33   0   43
+
+2   nu_overlay  44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_4c.root               ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4c_fhc.root  0         34   0   44
+15  NUMI        44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4c_FHC.root     ./hist_rootfiles/run4c_fhc_data_numi.root                           1.20e+20  35   0   44
+3   EXTNUMI     44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4c_FHC.root    ./hist_rootfiles/checkout_data_extnumi_run4c_fhc.root               4.09e+20  36   0   44
+4   dirt        44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_4c.root    ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4c_fhc.root        0         37   0   44
+
+2   nu_overlay  45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_4d.root               ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4d.root      0         38   0   45
+15  NUMI        45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4d.root         ./hist_rootfiles/run4d_data_numi.root                               6.75e+19  39   0   45
+3   EXTNUMI     45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4d.root        ./hist_rootfiles/checkout_data_extnumi_run4d.root                   1.51e+21  40   0   45
+4   dirt        45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_4d.root    ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4d.root            0         41   0   45
+
+2   nu_overlay  5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_5.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run5.root       0         42   0   5
+15  NUMI        5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_5.root          ./hist_rootfiles/run5_data_numi.root                                2.13e+20  43   0   5
+3   EXTNUMI     5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_5.root         ./hist_rootfiles/checkout_data_extnumi_run5.root                    8.16e+20  44   0   5
+4   dirt        5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_5.root     ./hist_rootfiles/checkout_prodgenie_numi_dirt_run5.root             0         45   0   5
+
+-1  end             -1  end                                                                                                                                     end                                                                 -1        -1  -1  -1
+#file   #type                   #period         #filename                                                                                                                       #outfile_name
+
+
+7   kdar_overlay    21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run1_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run2_rhc.root      3e22      1    0   21
+7   kdar_overlay    22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run2_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run2_fhc.root      3e22      2    0   22
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run3_morestats_reco2.root         ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run3.root          3e22      3    0   3
+7   kdar_overlay    41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4a_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4a.root         3e22      4    0   41
+7   kdar_overlay    42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4b.root                        ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4b.root         3e22      5    0   42
+7   kdar_overlay    43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run3_reco2.root                   ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4c_rhc.root     3e22      6    0   43
+3   kdar_overlay    44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4c_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4c_fhc.root     3e22      7    0   44
+7   kdar_overlay    45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run4d_reco2.root                  ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run4d.root         3e22      8    0   45
+7   kdar_overlay    5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_UseGroundStateRemnant_kdar_overlay_run5.root                         ./hist_rootfiles/checkout_prodgenie_kdar_overlay_run5.root          3e22      9    0   5
+
+
+2   nu_overlay_RHC  21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_23_NuMI_RHC_nu_overlay_surprise_reco2_hist_2.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run2_rhc.root   0         10   0   21
+5   NUMI_RHC        21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_2_RHC.root   ./hist_rootfiles/run2_rhc_data_numi.root                            2.38e+20  11   0   21
+3   EXTNUMI_RHC     21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_2_RHC.root  ./hist_rootfiles/checkout_data_extnumi_run2_rhc.root                8.87e+20  12   0   21
+4   dirt_RHC        21  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_RHC_dirt_overlay_surprise_reco2_hist_2.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run2_rhc.root         0         13   0   21
+
+12  nu_overlay_FHC  22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_FHC_nu_overlay_surprise_reco2_hist_2.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run2_fhc.root   0         14   0   22
+15  NUMI_FHC        22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_2_FHC_goodns.root   ./hist_rootfiles/run2_fhc_data_numi.root                            1.10e+20  15   0   22
+13  EXTNUMI_FHC     22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_2_FHC.root  ./hist_rootfiles/checkout_data_extnumi_run2_fhc.root                5.80e+20  16   0   22
+14  dirt_FHC        22  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_FHC_dirt_overlay_surprise_reco2_hist_2.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run2_fhc.root         0         17   0   22
+
+2   nu_overlay_RHC  3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_23_NuMI_RHC_nu_overlay_surprise_reco2_hist_3.root     ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run3.root       0         18   0   3
+5   NUMI_RHC        3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_on_data_surprise_reco2_hist_3.root       ./hist_rootfiles/run3_data_numi.root                                4.60e+20  19   0   3
+3   EXTNUMI_RHC     3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_beam_off_data_surprise_reco2_hist_3.root      ./hist_rootfiles/checkout_data_extnumi_run3.root                    1.51e+21  20   0   3
+4   dirt_RHC        3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run123_v10_04_07_20_NuMI_RHC_dirt_overlay_surprise_reco2_hist_3.root   ./hist_rootfiles/checkout_prodgenie_numi_dirt_run3.root             0         21   0   3
+
+2   nu_overlay_RHC  41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_nu_overlay_surprise_reco2_hist_4a.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4a.root      0         22   0   41
+5   NUMI_RHC        41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4a.root         ./hist_rootfiles/run4a_data_numi.root                               8.06e+18   23   0   41
+3   EXTNUMI_RHC     41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4a.root        ./hist_rootfiles/checkout_data_extnumi_run4a.root                   1.22e+20  24   0   41
+4   dirt_RHC        41  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4a.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4a.root            0         25   0   41
+
+2   nu_overlay_RHC  42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_RHC_nu_overlay_surprise_v10_04_07_09_reco2_hist.root        ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4b.root      0         26   0   42
+5   NUMI_RHC        42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_beam_on_RHC_data_surprise_v10_04_07_09_reco2_hist.root      ./hist_rootfiles/run4b_data_numi.root                               2.51e+20  27   0   42
+3   EXTNUMI_RHC     42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4b_NuMI_beam_off_RHC_data_surprise_v10_04_07_09_reco2_hist.root     ./hist_rootfiles/checkout_data_extnumi_run4b.root                   7.35e+20  28   0   42
+4   dirt_RHC        42  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4b.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4b.root            0         29   0   42
+
+2   nu_overlay_RHC  43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_nu_overlay_surprise_reco2_hist_4c.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4c_rhc.root  0         30   0   43
+5   NUMI_RHC        43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4c_RHC.root     ./hist_rootfiles/run4c_rhc_data_numi.root                           1.67e+19  31   0   43
+3   EXTNUMI_RHC     43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4c_RHC.root    ./hist_rootfiles/checkout_data_extnumi_run4c_rhc.root               5.17e+19  32   0   43
+4   dirt_RHC        43  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4a4c_NuMI_RHC_dirt_overlay_surprise_reco2_hist_4c.root              ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4c_rhc.root        0         33   0   43
+
+12  nu_overlay_FHC  44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_4c.root               ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4c_fhc.root  0         34   0   44
+15  NUMI_FHC        44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4c_FHC.root     ./hist_rootfiles/run4c_fhc_data_numi.root                           1.20e+20  35   0   44
+13  EXTNUMI_FHC     44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4c_FHC.root    ./hist_rootfiles/checkout_data_extnumi_run4c_fhc.root               4.09e+20  36   0   44
+14  dirt_FHC        44  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_4c.root    ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4c_fhc.root        0         37   0   44
+
+12  nu_overlay_FHC  45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_4d.root               ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run4d.root      0         38   0   45
+15  NUMI_FHC        45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_4d.root         ./hist_rootfiles/run4d_data_numi.root                               6.75e+19  39   0   45
+13  EXTNUMI_FHC     45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_4d.root        ./hist_rootfiles/checkout_data_extnumi_run4d.root                   1.51e+21  40   0   45
+14  dirt_FHC        45  /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_4d.root    ./hist_rootfiles/checkout_prodgenie_numi_dirt_run4d.root            0         41   0   45
+
+12  nu_overlay_FHC  5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4c4d5_NuMI_FHC_nu_overlay_surprise_reco2_hist_5.root                ./hist_rootfiles/checkout_prodgenie_numi_nu_overlay_run5.root       0         42   0   5
+15  NUMI_FHC        5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_on_surprise_reco2_hist_5.root          ./hist_rootfiles/run5_data_numi.root                                2.13e+20  43   0   5
+13  EXTNUMI_FHC     5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_MCC9.10_Run4acd5_v10_04_07_14_NuMI_beam_off_surprise_reco2_hist_5.root         ./hist_rootfiles/checkout_data_extnumi_run5.root                    8.16e+20  44   0   5
+14  dirt_FHC        5   /pnfs/uboone/persistent/users/bbogart/kdar_stub/checkout_prodgenie_numi_fhc_dirt_new_flux_overlay_run_4cd_5_reco2_reco2_hist_5.root     ./hist_rootfiles/checkout_prodgenie_numi_dirt_run5.root             0         45   0   5
+
+-1  end             -1  end                                                                                                                                     end                                                                 -1        -1  -1  -1
+#file   #type                   #period         #filename                                                                                                                       #outfile_name
