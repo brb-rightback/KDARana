@@ -1,0 +1,85 @@
+7   kdar_overlay    1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyd_run1_reco2.root                      ./hist_rootfiles/DetVar/cov_LYDown.root      0   1   1.5e20  1
+7   kdar_overlay    2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyr_run1_reco2.root                      ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   2   1.5e20  1
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_recomb2_run1_reco2.root                  ./hist_rootfiles/DetVar/cov_Recomb2.root     0   3   1.5e20  1
+7   kdar_overlay    4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_SCE_run1_reco2.root                      ./hist_rootfiles/DetVar/cov_SCE.root         0   4   1.5e20  1
+7   kdar_overlay    6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaXZ_run1_reco2_wc.root             ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   5   1.5e20  1
+7   kdar_overlay    7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaYZ_run1_reco2_wc.root             ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   6   1.5e20  1
+7   kdar_overlay    8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMX_run1_reco2_wc.root                   ./hist_rootfiles/DetVar/cov_WMX.root         0   7   1.5e20  1
+7   kdar_overlay    9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMYZ_run1_reco2_wc.root                  ./hist_rootfiles/DetVar/cov_WMYZ.root        0   8   1.5e20  1
+7   kdar_overlay    10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyatt_run1_reco2.root                    ./hist_rootfiles/DetVar/cov_LYatt.root       0   9   1.5e20  1
+
+
+7   kdar_overlay    1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyd_run3_morestats_reco2.root             ./hist_rootfiles/DetVar/cov_LYDown.root      0   10  1.0e21  3
+7   kdar_overlay    2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyr_run3_morestats_reco2.root             ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   11  1.0e21  3
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_recomb2_run3_morestats_reco2.root         ./hist_rootfiles/DetVar/cov_Recomb2.root     0   12  1.0e21  3
+7   kdar_overlay    4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_SCE_run3_morestats_reco2.root             ./hist_rootfiles/DetVar/cov_SCE.root         0   13  1.0e21  3
+7   kdar_overlay    6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaXZ_run3_morestats_reco2.root       ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   14  1.0e21  3
+7   kdar_overlay    7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaYZ_run3_morestats_reco2.root       ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   15  1.0e21  3
+7   kdar_overlay    8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMX_run3_morestats_reco2.root             ./hist_rootfiles/DetVar/cov_WMX.root         0   16  1.0e21  3
+7   kdar_overlay    9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMYZ_run3_morestats_reco2.root            ./hist_rootfiles/DetVar/cov_WMYZ.root        0   17  1.0e21  3
+7   kdar_overlay    10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyatt_run3_morestats_reco2.root           ./hist_rootfiles/DetVar/cov_LYatt.root       0   18  1.0e21  3
+
+
+7   kdar_overlay    1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyd_run3_reco2.root                      ./hist_rootfiles/DetVar/cov_LYDown.root      0   19  1.5e20  31
+7   kdar_overlay    2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyr_run3_reco2.root                      ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   20  1.5e20  31
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_recomb2_run3_reco2.root                  ./hist_rootfiles/DetVar/cov_Recomb2.root     0   21  1.5e20  31
+7   kdar_overlay    4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_SCE_run3_reco2.root                      ./hist_rootfiles/DetVar/cov_SCE.root         0   22  1.5e20  31
+7   kdar_overlay    6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaXZ_run3_reco2_wc.root             ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   23  1.5e20  31
+7   kdar_overlay    7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaYZ_run3_reco2_wc.root             ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   24  1.5e20  31
+7   kdar_overlay    8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMX_run3_reco2_wc.root                   ./hist_rootfiles/DetVar/cov_WMX.root         0   25  1.5e20  31
+7   kdar_overlay    9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_WMYZ_run3_reco2_wc.root                  ./hist_rootfiles/DetVar/cov_WMYZ.root        0   26  1.5e20  31
+7   kdar_overlay    10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_prodgenie_UseGroundStateRemnant_kdar_detvar_lyatt_run3_reco2.root                    ./hist_rootfiles/DetVar/cov_LYatt.root       0   27  1.5e20  31
+
+
+7   kdar_overlay    1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyd_run5.root                             ./hist_rootfiles/DetVar/cov_LYDown.root      0   28  1.5e20  5
+7   kdar_overlay    2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyr_run5.root                             ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   29  1.5e20  5
+7   kdar_overlay    3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_recomb2_run5.root                         ./hist_rootfiles/DetVar/cov_Recomb2.root     0   30  1.5e20  5
+7   kdar_overlay    4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_SCE_run5.root                             ./hist_rootfiles/DetVar/cov_SCE.root         0   31  1.5e20  5
+7   kdar_overlay    6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaXZ_run5.root                       ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   32  1.5e20  5
+7   kdar_overlay    7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMthetaYZ_run5.root                       ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   33  1.5e20  5
+7   kdar_overlay    8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMX_run5.root                             ./hist_rootfiles/DetVar/cov_WMX.root         0   34  1.5e20  5
+7   kdar_overlay    9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_WMYZ_run5.root                            ./hist_rootfiles/DetVar/cov_WMYZ.root        0   35  1.5e20  5
+7   kdar_overlay    10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/checkout_prodgenie_UseGroundStateRemnant_kdar_detvar_lyatt_run5.root                           ./hist_rootfiles/DetVar/cov_LYatt.root       0   36  1.5e20  5
+
+
+2   nu_overlay  1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_lyd_surprise_reco2_hist.root           ./hist_rootfiles/DetVar/cov_LYDown.root      0   37  9.74e20  42
+2   nu_overlay  2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_lyr_surprise_reco2_hist.root           ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   38  9.74e20  42
+2   nu_overlay  3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_recomb2_surprise_reco2_hist.root       ./hist_rootfiles/DetVar/cov_Recomb2.root     0   39  9.74e20  42
+2   nu_overlay  4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_sce_surprise_reco2_hist.root           ./hist_rootfiles/DetVar/cov_SCE.root         0   40  9.74e20  42
+2   nu_overlay  6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_WMthetaXZ_surprise_reco2_hist.root     ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   41  9.74e20  42
+2   nu_overlay  7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_WMthetaYZ_surprise_reco2_hist.root     ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   42  9.74e20  42
+2   nu_overlay  8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_WMX_surprise_reco2_hist.root           ./hist_rootfiles/DetVar/cov_WMX.root         0   43  9.74e20  42
+2   nu_overlay  9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_WMYZ_surprise_reco2_hist.root          ./hist_rootfiles/DetVar/cov_WMYZ.root        0   44  9.74e20  42
+2   nu_overlay  10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_RHC_nu_overlay_lya_surprise_reco2_hist.root           ./hist_rootfiles/DetVar/cov_LYatt.root       0   45  9.74e20  42
+
+
+2  nu_overlay  1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lyd_surprise_reco2_hist_4d.root        ./hist_rootfiles/DetVar/cov_LYDown.root      0   46  3.4e20  43
+2  nu_overlay  2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lyr_surprise_reco2_hist_4d.root        ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   47  3.4e20  43
+2  nu_overlay  3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_recomb2_surprise_reco2_hist_4d.root    ./hist_rootfiles/DetVar/cov_Recomb2.root     0   48  3.4e20  43
+2  nu_overlay  4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_sce_surprise_reco2_hist_4d.root        ./hist_rootfiles/DetVar/cov_SCE.root         0   49  3.4e20  43
+2  nu_overlay  6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMthetaXZ_surprise_reco2_hist_4d.root  ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   50  3.4e20  43
+2  nu_overlay  7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMthetaYZ_surprise_reco2_hist_4d.root  ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   51  3.4e20  43
+2  nu_overlay  8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMX_surprise_reco2_hist_4d.root        ./hist_rootfiles/DetVar/cov_WMX.root         0   52  3.4e20  43
+2  nu_overlay  9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMYZ_surprise_reco2_hist_4d.root       ./hist_rootfiles/DetVar/cov_WMXY.root        0   53  3.4e20  43
+2  nu_overlay  10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lya_surprise_reco2_hist_4d.root        ./hist_rootfiles/DetVar/cov_LYatt.root       0   54  3.4e20  43
+
+
+
+2  nu_overlay  1   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lyd_surprise_reco2_hist_5.root         ./hist_rootfiles/DetVar/cov_LYDown.root      0   55  1.7e20  5
+2  nu_overlay  2   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lyr_surprise_reco2_hist_5.root         ./hist_rootfiles/DetVar/cov_LYRayleigh.root  0   56  1.7e20  5
+2  nu_overlay  3   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_recomb2_surprise_reco2_hist_5.root     ./hist_rootfiles/DetVar/cov_Recomb2.root     0   57  1.7e20  5
+2  nu_overlay  4   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_sce_surprise_reco2_hist_5.root         ./hist_rootfiles/DetVar/cov_SCE.root         0   58  1.7e20  5
+2  nu_overlay  6   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMthetaXZ_surprise_reco2_hist_5.root   ./hist_rootfiles/DetVar/cov_WMThetaXZ.root   0   59  1.7e20  5
+2  nu_overlay  7   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMthetaYZ_surprise_reco2_hist_5.root   ./hist_rootfiles/DetVar/cov_WMThetaYZ.root   0   60  1.7e20  5
+2  nu_overlay  8   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMX_surprise_reco2_hist_5.root         ./hist_rootfiles/DetVar/cov_WMX.root         0   61  1.7e20  5
+2  nu_overlay  9   /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_WMYZ_surprise_reco2_hist_5.root        ./hist_rootfiles/DetVar/cov_WMYZ.root        0   62  1.7e20  5
+2  nu_overlay  10  /pnfs/uboone/persistent/users/bbogart/kdar_stub/DetVar/merge_det_DetVar_Run45_v10_04_07_19_NuMI_FHC_nu_overlay_lya_surprise_reco2_hist_5.root         ./hist_rootfiles/DetVar/cov_LYatt.root       0   63  1.7e20  5
+
+
+
+
+
+-1  end             -1  end                                                                                                                                                   end                                          -1  -1  -1   -1
+
+#file   #type                   #period         #filename                                                                                                                                                       #outfile_name                                   #ext_pot        #file_no  #norm #norm_period
+
