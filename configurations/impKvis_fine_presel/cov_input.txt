@@ -1,0 +1,83 @@
+kdar_RHC_presel            ssm_KE_cor_fix   19      10       200    1       0               0       0               0               0               5       unity           0
+kdar_FHC_presel            ssm_KE_cor_fix   19      10       200    1       0               0       0               0               0               15      unity           0
+kdar_presel_sig            ssm_KE_cor_fix   19      10       200    1       1               1       0               0               1               7       cv_spline       0
+kdar_RHC_presel_bck        ssm_KE_cor_fix   19      10       200    1       1               1       0               0               2               2       cv_spline       0
+kdar_FHC_presel_bck        ssm_KE_cor_fix   19      10       200    1       1               1       0               0               2               12      cv_spline       0
+kdar_RHC_presel_dirt       ssm_KE_cor_fix   19      10       200    1       0               0       0.5             0               2               4       cv_spline       0
+kdar_FHC_presel_dirt       ssm_KE_cor_fix   19      10       200    1       0               0       0.5             0               2               14      cv_spline       0
+kdar_RHC_presel_ext        ssm_KE_cor_fix   19      10       200    1       0               0       0               0               11              3       unity           0
+kdar_FHC_presel_ext        ssm_KE_cor_fix   19      10       200    1       0               0       0               0               11              13      unity           0
+
+kdar_FHC_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15       unity           0
+kdar_FHC_sideband1_bck            muon_KE   5      0       250    2       1               1       0               0               3               12       cv_spline       0
+kdar_FHC_sideband1_dirt           muon_KE   5      0       250    2       0               0       0.5             0               3               14       cv_spline       0
+kdar_FHC_sideband1_ext            muon_KE   5      0       250    2       0               0       0               0               12               13       unity           0
+
+kdar_FHC_sideband2                muon_KE   11      0       550    3       0               0       0               0               0               15       unity           0
+kdar_FHC_sideband2_bck            muon_KE   11      0       550    3       1               1       0               0               4               12       cv_spline       0
+kdar_FHC_sideband2_dirt           muon_KE   11      0       550    3       0               0       0.5             0               4               14       cv_spline       0
+kdar_FHC_sideband2_ext            muon_KE   11      0       550    3       0               0       0               0               13               13       unity           0
+
+kdar_FHC_sideband3                muon_KE   8      0       800    4       0               0       0               0               0               15       unity           0
+kdar_FHC_sideband3_bck            muon_KE   8      0       800    4       1               1       0               0               5               12       cv_spline       0
+kdar_FHC_sideband3_dirt           muon_KE   8      0       800    4       0               0       0.5             0               5               14       cv_spline       0
+kdar_FHC_sideband3_ext            muon_KE   8      0       800    4       0               0       0               0               14              13       unity           0
+
+kdar_FHC_sideband4                muon_KE   14      0       1400    5       0               0       0               0               0               15       unity           0
+kdar_FHC_sideband4_bck            muon_KE   14      0       1400    5       1               1       0               0               6               12       cv_spline       0
+kdar_FHC_sideband4_dirt           muon_KE   14      0       1400    5       0               0       0.5             0               6               14       cv_spline       0
+kdar_FHC_sideband4_ext            muon_KE   14      0       1400    5       0               0       0               0               15              13       unity           0
+
+kdar_RHC_sideband1                muon_KE   5      0       250    6       0               0       0               0               0               5       unity           0
+kdar_RHC_sideband1_bck            muon_KE   5      0       250    6       1               1       0               0               7               2       cv_spline       0
+kdar_RHC_sideband1_dirt           muon_KE   5      0       250    6       0               0       0.5             0               7               4       cv_spline       0
+kdar_RHC_sideband1_ext            muon_KE   5      0       250    6       0               0       0               0               16               3       unity           0
+
+kdar_RHC_sideband2                muon_KE   11      0       550    7       0               0       0               0               0               5       unity           0
+kdar_RHC_sideband2_bck            muon_KE   11      0       550    7       1               1       0               0               8               2       cv_spline       0
+kdar_RHC_sideband2_dirt           muon_KE   11      0       550    7       0               0       0.5             0               8               4       cv_spline       0
+kdar_RHC_sideband2_ext            muon_KE   11      0       550    7       0               0       0               0               17               3       unity           0
+
+kdar_RHC_sideband3                muon_KE   8      0       800    8       0               0       0               0               0               5       unity           0
+kdar_RHC_sideband3_bck            muon_KE   8      0       800    8       1               1       0               0               9               2       cv_spline       0
+kdar_RHC_sideband3_dirt           muon_KE   8      0       800    8       0               0       0.5             0               9               4       cv_spline       0
+kdar_RHC_sideband3_ext            muon_KE   8      0       800    8       0               0       0               0               18              3       unity           0
+
+kdar_RHC_sideband4                muon_KE   14      0       1400    9       0               0       0               0               0              5       unity           0
+kdar_RHC_sideband4_bck            muon_KE   14      0       1400    9       1               1       0               0               10              2       cv_spline       0
+kdar_RHC_sideband4_dirt           muon_KE   14      0       1400    9       0               0       0.5             0               10              4       cv_spline       0
+kdar_RHC_sideband4_ext            muon_KE   14      0       1400    9       0               0       0               0               19             3       unity           0
+
+End                                     End             -1      -1      -1      -1      -1              -1      -1              -1              -1              -1      end             -1
+Name:                                   #Var:           #bin    #start  #end    #obs    #xs_flux        #det    #add_sys        #same_mc        #cov_sec        #file   #weight         #lee_strength
+
+
+kdar_presel                ssm_KE_cor_fix   9      50       140    1       0               0       0               0               0               15      unity           0
+kdar_presel_sig            ssm_KE_cor_fix   9      50       140    1       1               1       0               0               1               7       cv_spline       0
+kdar_presel_bck            ssm_KE_cor_fix   9      50       140    1       1               1       0               0               2               2       cv_spline       0
+kdar_presel_dirt           ssm_KE_cor_fix   9      50       140    1       0               0       0.5             0               2               4       cv_spline       0
+kdar_presel_ext            ssm_KE_cor_fix   9      50       140    1       0               0       0               0               7               3       unity           0
+
+kdar_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15      unity           0
+kdar_sideband1_bck            muon_KE   5      0       250    2       1               1       0               0               3               2       cv_spline       0
+kdar_sideband1_dirt           muon_KE   5      0       250    2       0               0       0.5             0               3               4       cv_spline       0
+kdar_sideband1_ext            muon_KE   5      0       250    2       0               0       0               0               8               3       unity           0
+
+kdar_sideband2                muon_KE   11      0       550    3       0               0       0               0               0               15      unity           0
+kdar_sideband2_bck            muon_KE   11      0       550    3       1               1       0               0               4               2       cv_spline       0
+kdar_sideband2_dirt           muon_KE   11      0       550    3       0               0       0.5             0               4               4       cv_spline       0
+kdar_sideband2_ext            muon_KE   11      0       550    3       0               0       0               0               9               3       unity           0
+
+kdar_sideband3                muon_KE   8      0       800    4       0               0       0               0               0               15      unity           0
+kdar_sideband3_bck            muon_KE   8      0       800    4       1               1       0               0               5               2       cv_spline       0
+kdar_sideband3_dirt           muon_KE   8      0       800    4       0               0       0.5             0               5               4       cv_spline       0
+kdar_sideband3_ext            muon_KE   8      0       800    4       0               0       0               0               10              3       unity           0
+
+kdar_sideband4                muon_KE   14      0       1400    5       0               0       0               0               0               15      unity           0
+kdar_sideband4_bck            muon_KE   14      0       1400    5       1               1       0               0               6               2       cv_spline       0
+kdar_sideband4_dirt           muon_KE   14      0       1400    5       0               0       0.5             0               6               4       cv_spline       0
+kdar_sideband4_ext            muon_KE   14      0       1400    5       0               0       0               0               11              3       unity           0
+
+End                                     End             -1      -1      -1      -1      -1              -1      -1              -1              -1              -1      end             -1
+Name:                                   #Var:           #bin    #start  #end    #obs    #xs_flux        #det    #add_sys        #same_mc        #cov_sec        #file   #weight         #lee_strength
+
