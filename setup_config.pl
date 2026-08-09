@@ -7,6 +7,7 @@ print "New configuration is $new_config for $fakedata\n";
 my $old_config = "NONE";
 open my $file, '<', "config.txt" or die "Cannot open config.txt: $!";
 my $old_config = <$file>;
+chomp($old_config);
 print "The old config is $old_config\n";
 close $file;
 

@@ -7,7 +7,7 @@ chomp($config);
 close $file;
 print "Running MC stat for $config\n";
 
-if($config =~ /presel/ || $config eq "lowE" || $config eq "hiE" || $config eq "lowE_ns" || $config eq "hiE_ns" || $config =~ /antibdtsel/ || $config =~ /ktagged/){
+if($config =~ /presel/ || $config eq "lowE" || $config eq "hiE" || $config eq "lowE_ns" || $config eq "hiE_ns" || $config =~ /antibdtsel/ || $config =~ /ktagged/ || $config eq "hiE_Stub" || $config eq "hiE_Nostub" ||){
   system("bin/stat_pred_cov_matrix -r0 -h1&");
   system("bin/stat_cov_matrix -r0 -h1");
 }else{

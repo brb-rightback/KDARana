@@ -1,6 +1,6 @@
 kdar_RHC_presel            ssm_KE_cor_fix   9      50       140    1       0               0       0               0               0               5       unity           0
 kdar_FHC_presel            ssm_KE_cor_fix   9      50       140    1       0               0       0               0               0               15      unity           0
-kdar_bdtsel_sig            ssm_KE_cor_fix   9      50       140    1       1               1       0               0               1               7       cv_spline       0
+kdar_presel_sig            ssm_KE_cor_fix   9      50       140    1       1               1       0               0               1               7       cv_spline       0
 kdar_RHC_presel_bck        ssm_KE_cor_fix   9      50       140    1       1               1       0               0               2               2       cv_spline       0
 kdar_FHC_presel_bck        ssm_KE_cor_fix   9      50       140    1       1               1       0               0               2               12      cv_spline       0
 kdar_RHC_presel_dirt       ssm_KE_cor_fix   9      50       140    1       0               0       0.5             0               2               4       cv_spline       0
