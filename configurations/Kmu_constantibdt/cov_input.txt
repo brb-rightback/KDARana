@@ -1,9 +1,9 @@
 
-kdar_bdtselns                ssm_kine_energy   13      0       130    1       0               0       0               0               0               15      unity           0
-kdar_bdtselns_sig            ssm_kine_energy   13      0       130    1       1               1       0               0               1               7       cv_spline       0
-kdar_bdtselns_bck            ssm_kine_energy   13      0       130    1       1               1       0               0               2               2       cv_spline       0
-kdar_bdtselns_dirt           ssm_kine_energy   13      0       130    1       0               0       0.5             0               2               4       cv_spline       0
-kdar_bdtselns_ext            ssm_kine_energy   13      0       130    1       0               0       0               0               8               3       unity           0
+kdar_bdtselns                ssm_kine_energy   11      10       120    1       0               0       0               0               0               15      unity           0
+kdar_bdtselns_sig            ssm_kine_energy   11      10       120    1       1               1       0               0               1               7       cv_spline       0
+kdar_bdtselns_bck            ssm_kine_energy   11      10       120    1       1               1       0               0               2               2       cv_spline       0
+kdar_bdtselns_dirt           ssm_kine_energy   11      10       120    1       0               0       0.5             0               2               4       cv_spline       0
+kdar_bdtselns_ext            ssm_kine_energy   11      10       120    1       0               0       0               0               8               3       unity           0
 
 kdar_sideband1                muon_KE   5      0       250    2       0               0       0               0               0               15      unity           0
 kdar_sideband1_bck            muon_KE   5      0       250    2       1               1       0               0               3               2       cv_spline       0
@@ -25,11 +25,11 @@ kdar_sideband4_bck            muon_KE   14      0       1400    5       1       
 kdar_sideband4_dirt           muon_KE   14      0       1400    5       0               0       0.5             0               6               4       cv_spline       0
 kdar_sideband4_ext            muon_KE   14      0       1400    5       0               0       0               0               12              3       unity           0
 
-kdar_anitbdtsel                ssm_kine_energy   13      0       130    1       0               0       0               0               0               15      unity           0
-kdar_antibdtsel_sig            ssm_kine_energy   13      0       130    1       1               1       0               0               7               2       cv_spline       0
-kdar_antibdtsel_bck            ssm_kine_energy   13      0       130    1       1               1       0               0               7               2       cv_spline       0
-kdar_antibdtsel_dirt           ssm_kine_energy   13      0       130    1       0               0       0.5             0               7               4       cv_spline       0
-kdar_antibdtsel_ext            ssm_kine_energy   13      0       130    1       0               0       0               0               13               3       unity           0
+kdar_anitbdtsel                ssm_kine_energy   11      10       120    6       0               0       0               0               0               15      unity           0
+kdar_antibdtsel_sig            ssm_kine_energy   11      10       120    6       1               1       0               0               7               2       cv_spline       0
+kdar_antibdtsel_bck            ssm_kine_energy   11      10       120    6       1               1       0               0               7               2       cv_spline       0
+kdar_antibdtsel_dirt           ssm_kine_energy   11      10       120    6       0               0       0.5             0               7               4       cv_spline       0
+kdar_antibdtsel_ext            ssm_kine_energy   11      10       120    6       0               0       0               0               13               3       unity           0
 
 
 End                                     End             -1      -1      -1      -1      -1              -1      -1              -1              -1              -1      end             -1

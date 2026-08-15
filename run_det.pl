@@ -9,26 +9,26 @@ chomp($config);
 close $file;
 print "Running det sys for $config\n";
 
-if($config eq "rate" || $config eq "rate_nons"){
+if($config eq "rate" || $config eq "rate_nons" || $config eq "rate_antibdt" || $config eq "rate_nofhcrhc" || $config eq "rate_constantibdt" || $config eq "rate_constproton" || $config eq "rate_lowE" || $config eq "rate_hiE"){
   print "Running det_cov_matrix\n";
   system("./bin/det_cov_matrix -r1 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r2 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r3 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r4 -h1 -s$seed&");
-  system("./bin/det_cov_matrix -r6 -h1 -s$seed");
+  system("./bin/det_cov_matrix -r6 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r7 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r8 -h1 -s$seed&");
   system("./bin/det_cov_matrix -r9 -h1 -s$seed&");
-  system("./bin/det_cov_matrix -r10 -h1 -s$seed");
+  system("./bin/det_cov_matrix -r10 -h1 -s$seed&");
 }else{
   print "Running det_norm_cov_matrix\n";
   system("./bin/det_norm_cov_matrix -r1 -h1 -s$seed&");
   system("./bin/det_norm_cov_matrix -r2 -h1 -s$seed&");
-  system("./bin/det_norm_cov_matrix -r3 -h1 -s$seed");
-  system("./bin/det_norm_cov_matrix -r4 -h1 -s$seed");
+  system("./bin/det_norm_cov_matrix -r3 -h1 -s$seed&");
+  system("./bin/det_norm_cov_matrix -r4 -h1 -s$seed&");
   system("./bin/det_norm_cov_matrix -r6 -h1 -s$seed&");
   system("./bin/det_norm_cov_matrix -r7 -h1 -s$seed&");
-  system("./bin/det_norm_cov_matrix -r8 -h1 -s$seed");
+  system("./bin/det_norm_cov_matrix -r8 -h1 -s$seed&");
   system("./bin/det_norm_cov_matrix -r9 -h1 -s$seed&");
-  system("./bin/det_norm_cov_matrix -r10 -h1 -s$seed");
+  system("./bin/det_norm_cov_matrix -r10 -h1 -s$seed&");
 }
